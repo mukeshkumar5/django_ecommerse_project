@@ -47,5 +47,5 @@ urlpatterns = [
 ]+static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 admin.site.site_header = "Neel Dairy"
-admin.site.site_title = "Neel Dairy"
+admin.site.site_title = "Neel Dairy Administration"
 admin.site.site_index_title = "Welcome to Neel Dairy Shop"
