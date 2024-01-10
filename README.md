@@ -9,7 +9,7 @@ docker pull mukeshkumar5/django-ecommerce:latest
 
 3. Run docker image
 
-# -p <localhost_port>:<container_port>
+#### -p <localhost_port>:<container_port>
 docker run -d -p 8000:8080 mukeshkumar5/django-ecommerce:latest
 
 4. On browser
